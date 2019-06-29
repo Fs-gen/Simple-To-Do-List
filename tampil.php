@@ -1,5 +1,6 @@
 
 <?php
+//koneksi
 include "koneksi.php";
 
 $query = "SELECT * FROM list";
